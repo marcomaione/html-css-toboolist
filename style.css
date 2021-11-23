@@ -4,4 +4,30 @@ span{
     vertical-align: bottom;
 }
 .logo{
-    background-color:white
+    background-color:white;
+}
+.background{
+    background-color: rgb(246, 244, 244);
+    width: 50%;
+    margin: auto;
+    
+}
+#bottone{
+    background-color:rgb(48, 165, 238) ;
+    color: white;
+}
+#bottone2{
+    background-color:rgba(0,0,0,0.7) ;
+    color: gray;
+}
+main{
+    width: 50%;
+    margin: auto;
+}
+.task{
+    background-color: white;
+    text-align:left;
+}
+.corpocentrale{
+    background-color: white;
+}
